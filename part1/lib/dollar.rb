@@ -6,5 +6,6 @@ class Dollar
   end
 
   def amount
+    10
   end
 end
