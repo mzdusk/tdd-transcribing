@@ -3,7 +3,7 @@ class Dollar
   end
 
   def times!(multiplier)
-    @amount = 5 * 2
+    @amount = 5 * multiplier
   end
 
   def amount
